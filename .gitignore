@@ -18,6 +18,10 @@ migrate_working_dir/
 *.iws
 .idea/
 
+# VS Code related
+.vscode/
+*.code-workspace
+
 # The .vscode folder contains launch configuration and tasks you configure in
 # VS Code which you may wish to be included in version control, so this line
 # is commented out by default.
@@ -32,6 +36,8 @@ migrate_working_dir/
 .pub-cache/
 .pub/
 /build/
+.metadata
+*.iml
 
 # Symbolication related
 app.*.symbols
@@ -43,3 +49,107 @@ app.*.map.json
 /android/app/debug
 /android/app/profile
 /android/app/release
+
+# Android related
+/android/local.properties
+/android/key.properties
+*.keystore
+*.jks
+*.key
+/android/app/build/
+/android/.gradle/
+/android/captures/
+/android/.cxx/
+
+# iOS related
+/ios/Pods/
+/ios/.symlinks/
+/ios/Flutter/Flutter.framework
+/ios/Flutter/Flutter.podspec
+/ios/Flutter/Generated.xcconfig
+/ios/Flutter/ephemeral/
+/ios/Flutter/app.flx
+/ios/Flutter/app.zip
+/ios/Flutter/flutter_assets/
+/ios/Flutter/flutter_export_environment.sh
+/ios/ServiceDefinitions.json
+/ios/Runner/GeneratedPluginRegistrant.*
+
+# macOS related
+/macos/Flutter/ephemeral/
+
+# Web related
+/web/*.dart.js
+/web/*.dart.js.map
+/web/*.info.json      # Used by the flutter tool
+/web/*.js             # Used by the flutter tool
+/web/*.js.map         # Used by the flutter tool
+/web/*.mjs            # Used by the flutter tool
+/web/*.mjs.map        # Used by the flutter tool
+
+# Linux related
+/linux/flutter/ephemeral/
+
+# Environment and Config files
+.env
+.env.local
+.env.*.local
+*.env
+config.json
+secrets.json
+*.secret
+
+# Screenshots and documentation images (optional - uncomment if needed)
+# *.jpeg
+# *.jpg
+# screenshots/
+# docs/images/
+
+# OS Files
+Thumbs.db
+.DS_Store
+*.swp
+*.swo
+*~
+.Trash-*
+
+# IDE - VSCode
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+
+# IDE - Android Studio
+.idea/
+*.iml
+*.iws
+*.ipr
+local.properties
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+*.cache
+
+# Log files
+*.log
+logs/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Coverage
+coverage/
+*.lcov
+
+# Package Files
+*.7z
+*.dmg
+*.gz
+*.iso
+*.jar
+*.rar
+*.tar
+*.zip

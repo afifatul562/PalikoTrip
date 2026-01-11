@@ -8,9 +8,8 @@ import 'package:google_fonts/google_fonts.dart';
 Future<void> main() async {
   WidgetsFlutterBinding.ensureInitialized();
   await Supabase.initialize(
-    url: 'https://cyoswjisdjroesaxkumx.supabase.co',
-    anonKey:
-        'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImN5b3N3amlzZGpyb2VzYXhrdW14Iiwicm9sZSI6ImFub24iLCJpYXQiOjE3NTExMDAxMDYsImV4cCI6MjA2NjY3NjEwNn0.UqWhjgWh5hll45E-MEQElmvZGsoF-oDp0Wa6EiRbLEE',
+    url: 'YOUR_SUPABASE_URL',
+    anonKey: 'YOUR_SUPABASE_ANON_KEY',
   );
   runApp(const WisataApp());
 }
