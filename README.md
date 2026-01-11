@@ -52,7 +52,23 @@ Paliko Trip adalah aplikasi mobile Flutter yang membantu pengguna menemukan, men
 
 ## 📱 Screenshots
 
-LoadingPage.jpeg, WelcomePage.jpeg, HomePage.jpeg, FavoritePage.jpeg, KategoriPage.jpeg, AkunPage.jpeg, AddWisata_Admin.jpeg, Theme.jpeg, QnA.jpeg, Tentang.jpeg
+### Loading & Welcome
+![Loading Page](screenshots/LoadingPage.jpeg)
+![Welcome Page](screenshots/WelcomePage.jpeg)
+
+### Main Pages
+![Home Page](screenshots/HomePage.jpeg)
+![Favorite Page](screenshots/FavoritePage.jpeg)
+![Kategori Page](screenshots/KategoriPage.jpeg)
+![Akun Page](screenshots/AkunPage.jpeg)
+
+### Admin Features
+![Add Wisata Admin](screenshots/AddWisata_Admin.jpeg)
+
+### Settings & Info
+![Theme](screenshots/Theme.jpeg)
+![QnA](screenshots/QnA.jpeg)
+![Tentang](screenshots/Tentang.jpeg)
 
 ## 🚀 Cara Setup
 
