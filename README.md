@@ -53,22 +53,34 @@ Paliko Trip adalah aplikasi mobile Flutter yang membantu pengguna menemukan, men
 ## 📱 Screenshots
 
 ### Loading & Welcome
-![Loading Page](screenshots/LoadingPage.jpeg)
-![Welcome Page](screenshots/WelcomePage.jpeg)
+
+<div align="center">
+  <img src="screenshots/LoadingPage.jpeg" width="250" alt="Loading Page">
+  <img src="screenshots/WelcomePage.jpeg" width="250" alt="Welcome Page">
+</div>
 
 ### Main Pages
-![Home Page](screenshots/HomePage.jpeg)
-![Favorite Page](screenshots/FavoritePage.jpeg)
-![Kategori Page](screenshots/KategoriPage.jpeg)
-![Akun Page](screenshots/AkunPage.jpeg)
+
+<div align="center">
+  <img src="screenshots/HomePage.jpeg" width="250" alt="Home Page">
+  <img src="screenshots/FavoritePage.jpeg" width="250" alt="Favorite Page">
+  <img src="screenshots/KategoriPage.jpeg" width="250" alt="Kategori Page">
+  <img src="screenshots/AkunPage.jpeg" width="250" alt="Akun Page">
+</div>
 
 ### Admin Features
-![Add Wisata Admin](screenshots/AddWisata_Admin.jpeg)
+
+<div align="center">
+  <img src="screenshots/AddWisata_Admin.jpeg" width="250" alt="Add Wisata Admin">
+</div>
 
 ### Settings & Info
-![Theme](screenshots/Theme.jpeg)
-![QnA](screenshots/QnA.jpeg)
-![Tentang](screenshots/Tentang.jpeg)
+
+<div align="center">
+  <img src="screenshots/Theme.jpeg" width="250" alt="Theme">
+  <img src="screenshots/QnA.jpeg" width="250" alt="QnA">
+  <img src="screenshots/Tentang.jpeg" width="250" alt="Tentang">
+</div>
 
 ## 🚀 Cara Setup
 
